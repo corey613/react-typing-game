@@ -1,1 +1,1 @@
-Test you tryping speed with this React.js app!
+Test your typing speed with this React.js app!
